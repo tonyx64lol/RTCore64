@@ -1,6 +1,8 @@
 # RTCore64_Vulnerability
 RtCore64 Vulnerable driver mapper that works on Windows 10 & 11
 
+Modified the source, its an undetected driver mapper (tested) which should make your P2C more undetected ❤️
+
 ## 💻 Information
 This mapper allows your to load any unsigned driver by abusing the RtCore64 Vulnerable driver, while also cleaning the following to prevent detection by anti-cheats.
 - MmUnloadedDrivers
